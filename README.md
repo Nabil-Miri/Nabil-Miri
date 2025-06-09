@@ -6,7 +6,6 @@ Motivated to design, build, and deploy intelligent robotic systems that bridge t
 [![Portfolio](https://img.shields.io/badge/Portfolio-nabil--miri.github.io-blue)](https://nabil-miri.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nabilmiri-blue?logo=linkedin)](https://www.linkedin.com/in/nabilmiri)
 [![Email](https://img.shields.io/badge/Email-nabilmiri@outlook.com-blue)](mailto:nabilmiri@outlook.com)
-[![Location](https://img.shields.io/badge/Stuttgart-Germany-blue)](#)
 
 ---
 ## 💼 Experience
