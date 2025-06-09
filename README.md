@@ -16,7 +16,7 @@ Motivated to design, build, and deploy intelligent robotic systems that bridge t
 
 - **BMW Group** – *Robotics Engineering Intern, Munich*  
   *Apr 2024 – Sep 2024*  
-  Designed cloud-based solutions for the UR10e robotic arm, automated deployment, and improved modularity in ROS2 environments.
+  Developed and deployed connectivity features for the UR10e robotic arm using ROS2 and Python, leveraging Azure services for scalable configuration management. Designed CI/CD pipelines with Docker Compose to automate testing, deployment, and code quality, while troubleshooting ROS2 and Python issues in an Agile Scrum environment.
 ---
 ## 🎓 Education
 
