@@ -51,9 +51,3 @@ Motivated to design, build, and deploy intelligent robotic systems that bridge t
   Built a Mask-RCNN model with Detectron2 for waste detection in real-world environments.
 -->
 ---
-## 🌐 Connect with Me
-
-- **Portfolio:** [nabil-miri.github.io](https://nabil-miri.github.io)
-- **LinkedIn:** [nabilmiri](https://www.linkedin.com/in/nabilmiri)
-- **Email:** nabilmiri@outlook.com
----
