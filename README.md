@@ -12,7 +12,7 @@ Motivated to design, build, and deploy intelligent robotic systems that bridge t
 
 - **Fraunhofer IPA** – *Master Thesis Student, Stuttgart*  
   *Nov 2024 – May 2025*  
-  Developed a traversability-aware local planner for outdoor mobile robots using Model Predictive Control (MPC), real-time MPC with ACADOS, and seamless ROS2 integration on the CURTAr robotic platform.
+  Developed a traversability-aware local planner for outdoor mobile robots using Model Predictive Control (MPC), real-time MPC with ACADOS, and ROS2 integration on the CURT robotic platform.
 
 - **BMW Group** – *Robotics Engineering Intern, Munich*  
   *Apr 2024 – Sep 2024*  
