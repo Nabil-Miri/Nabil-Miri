@@ -1,4 +1,4 @@
-# Hi there, I'm Nabil Miri 👋
+# Hi there, I'm Nabil 👋
 Motivated to design, build, and deploy intelligent robotic systems that bridge the gap between research and real-world solutions.
 
 **Robotics Engineer | M.Sc. Automation & Robotics | AI & Navigation & Motion Planning Enthusiast**
